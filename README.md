@@ -20,9 +20,9 @@ En el repositorio, el proyecto esta descompuesto en varias carpetas.
 ### CAD y Planos
 En dicha carpeta se encuentran todos los archivos CAD pertenecientes la proyecto. Estan desarrollados en CATIA V5 R21.
 ### Control Dinámico
-Se recogen los ficheros de Matlab y diversas pruebas realizadas para caracterizar el conjunto "control+motor" para poder ajustar los diferentes parametros del control. En el se encuentran diversos archivos de Matlab y Simulink.
+Se recogen los ficheros de Matlab y diversas pruebas realizadas para caracterizar el conjunto "control+motor" para poder ajustar los diferentes parametros del control. En él se encuentran diversos archivos de Matlab y Simulink.
 ### PCBs
-Se encuentran todos los ficheros utilizados para realizar las placas de electronica, incluyendo esquemáticos, pcbs y librerías.
+Se encuentran todos los ficheros utilizados para realizar las placas de electrónica, incluyendo esquemáticos, pcbs y librerías.
 ### Programas
 Aquí estan desarrollados los programas integrados en cada placa y la Interfaz Hombre Máquina desarrollada en Matlab.
 ### Renders
