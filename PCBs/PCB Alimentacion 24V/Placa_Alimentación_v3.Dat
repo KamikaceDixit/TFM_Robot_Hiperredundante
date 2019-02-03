@@ -1,0 +1,27 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~175|Field=Description~String~Description~115|Field=Designator~String~Designator~115|Field=Footprint~String~Footprint~115|Field=Quantity~Integer~Quantity~115|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Placa_Alimentación.PrjPCB|ReportField=ProjectFullPath~X:\Dropbox\Universidad\Máster\TFM\1. PCBs\PCB Alimentacion\Placa_Alimentación.PrjPCB|ReportField=Title~Bill of Materials For PCB Document [Placa_Alimentación_v3.PcbDoc]|ReportField=TotalQuantity~157|ReportField=ReportTime~1:40:26|ReportField=ReportDate~13/06/2018|ReportField=ReportDateTime~13/06/2018 1:40:26|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~Placa_Alimentación_v3.PcbDoc|ReportField=DataSourceFullPath~X:\Dropbox\Universidad\Máster\TFM\1. PCBs\PCB Alimentacion\Placa_Alimentación_v3.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|1206 LED||5V, L1|LED-1206|2
+2|100n||C1, C4, C5, C6, C7, C11, C14_S1, C14_S2, C14_S3, C14_S4, C14_S5, C14_S6, C14_S7, C14_S8, C14_S9, C14_S10, C14_S11, C14_S12, C14_S13, C14_S14, C15|0805|21
+3|47u||C2, C10|PANASONIC_D|2
+4|22p||C3, C8, C9, C12, C13|0805|5
+5|SOD123-1A||D1|SOD-123|1
+6|Header 2|Header, 2-Pin|E_C1|HDR1X2|1
+7|JUMPER-PAD-2-NOYES_SILK||GND1, GND2, SCL1, SCL2, SDA1, SDA2|PAD-JUMPER-2-NO_YES_SILK|6
+8|INA219||IC1_S1, IC1_S2, IC1_S3, IC1_S4, IC1_S5, IC1_S6, IC1_S7, IC1_S8, IC1_S9, IC1_S10, IC1_S11, IC1_S12, IC1_S13, IC1_S14|SO08|14
+9|Header 3X2|Header, 3-Pin, Dual row|ISCP1|HDR2X3|1
+10|JUMPER-PAD-3-NOYES_SILK||JP1_S1, JP1_S2, JP1_S3, JP1_S4, JP1_S5, JP1_S6, JP1_S7, JP1_S8, JP1_S9, JP1_S10, JP1_S11, JP1_S12, JP1_S13, JP1_S14, JP2_S1, JP2_S2, JP2_S3, JP2_S4, JP2_S5, JP2_S6, JP2_S7, JP2_S8, JP2_S9, JP2_S10, JP2_S11, JP2_S12, JP2_S13, JP2_S14, JP3_S1, JP3_S2, JP3_S3, JP3_S4, JP3_S5, JP3_S6, JP3_S7, JP3_S8, JP3_S9, JP3_S10, JP3_S11, JP3_S12, JP3_S13, JP3_S14, JP4_S1, JP4_S2, JP4_S3, JP4_S4, JP4_S5, JP4_S6, JP4_S7, JP4_S8, JP4_S9, JP4_S10, JP4_S11, JP4_S12, JP4_S13, JP4_S14|PAD-JUMPER-3-NO_YES_SILK|56
+11|MCP2551T-I/SN|High-Speed CAN Transceiver, 8-Pin SOIC, Industrial Temperature, Tape and Reel|MCP1|SOIC-SN8_N|1
+12|MCP2515T-E/SO|Stand-Alone CAN Controller With SPI Interface, 18-Pin SOIC, Extended Temperature, Tape and Reel|MCP2|SOIC-SO18_N|1
+13|20020110-D021A01LF|TERM BLOCK HDR 2POS R/A 3.81MM|M_C1, M_C2, M_C3, M_C4, M_C5, M_C6, M_C7, M_C8, M_C9, M_C10, M_C11, M_C12, M_C13, M_C14|FCI 06-381-2PIN|14
+14|IDC2X4|Header, 4-Pin, Dual row|P1, P2|IDC2X4|2
+15|Header 6|Header, 6-Pin|Prog1|HDR1X6|1
+16|10K||R1, R3, R7|0805|3
+17|560||R2, R8|0805|2
+18|0||R4, R5|0805|2
+19|124||R6|0805|1
+20|4.7K||R9|0805|1
+21|0.012 2W||R10_S1, R10_S2, R10_S3, R10_S4, R10_S5, R10_S6, R10_S7, R10_S8, R10_S9, R10_S10, R10_S11, R10_S12, R10_S13, R10_S14|R2512|14
+22|FSMSMTR|SWITCH TACTILE SPST-NO 0.05A 24V|S1|TE FSMSMTR|1
+23|ATmega328P-AU|8-bit AVR Microcontroller, 32KB Flash, 1KB EEPROM, 2KB SRAM, 32-pin TQFP, Industrial Grade (-40°C to 85°C)|U1|32A_N|1
+24|NCP1117||U2|SOT223|1
+25|WJ45C-B-2P||WJ45C-B-2P|WJ45C-B-2P|1
+26|16MHz|CRYSTAL 16.0000MHZ 8PF SMD|Y1, Y2|NDK NX3225SA|2

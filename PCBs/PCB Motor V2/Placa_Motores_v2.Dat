@@ -1,0 +1,35 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Placa_Motores_v2.PrjPCB|ReportField=ProjectFullPath~X:\Dropbox\Universidad\Máster\TFM\1. PCBs\PCB Motor V2\Placa_Motores_v2.PrjPCB|ReportField=Title~Bill of Materials For Project [Placa_Motores_v2.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~56|ReportField=ReportTime~20:34:29|ReportField=ReportDate~06/01/2019|ReportField=ReportDateTime~06/01/2019 20:34:29|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~06/01/2019|ReportField=CurrentTime~20:28:07|ReportField=Date~|ReportField=DocumentFullPathAndName~X:\Dropbox\Universidad\Máster\TFM\1. PCBs\PCB Motor V2\Placa_Motor_Esquematico_v2.SchDoc|ReportField=DocumentName~Placa_Motor_Esquematico_v2.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~06/01/2019|ReportField=Organization~|ReportField=ProjectName~Placa_Motores_v2.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Placa_Motores_v2.PrjPCB|ReportField=DataSourceFullPath~X:\Dropbox\Universidad\Máster\TFM\1. PCBs\PCB Motor V2\Placa_Motores_v2.PrjPCB|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|1206 LED||5V, 24V, L1|LED-1206|3
+2|100n||C1, C4, C5, C6, C7, C12, C13|0805|7
+3|47u||C2, C17|PANASONIC_D|2
+4|22p||C3, C8, C9, C10, C11|0805|5
+5|100u||C14|PANASONIC_D|1
+6|33n||C15|0805|1
+7|1u||C16|0805|1
+8|SBR3U40P1-7||D1, D2, D3, D4|POWERDI-123|4
+9|SOD123-1A||D5|SOD-123|1
+10|13V Zener MM1Z13||D6|SOD-123|1
+11|Header 2|Header, 2-Pin|E_C|HDR1X2|1
+12|282834-8|TERM BLOCK 8POS SIDE ENT 2.54MM|I/O|TE 282834-8|1
+13|Header 3X2|Header, 3-Pin, Dual row|ISCP|HDR2X3|1
+14|JUMPER-PAD-2-NC_BY_PASTE||JP?|PAD-JUMPER-2-NC_BY_PASTE_YES_SILK|1
+15|MC33887|Motor / Motion / Ignition Controllers & Drivers 5.0 A H-BRIDGE|MC1|SOIC127P1420X340-21N|1
+16|MCP2551T-I/SN|High-Speed CAN Transceiver, 8-Pin SOIC, Industrial Temperature, Tape and Reel|MCP1|SOIC-SN8_N|1
+17|MCP2515T-E/SO|Stand-Alone CAN Controller With SPI Interface, 18-Pin SOIC, Extended Temperature, Tape and Reel|MCP2|SOIC-SO18_N|1
+18|IDC2X4|Header, 4-Pin, Dual row|P1, P2|IDC2X4|2
+19|20020110-D021A01LF|TERM BLOCK HDR 2POS R/A 3.81MM|POWER|FCI 06-381-2PIN|1
+20|Header 6|Header, 6-Pin|Prog|HDR1X6|1
+21|IRF7832TRPBF||Q1|SO-08|1
+22|10K||R1, R4, R10|0805|3
+23|560||R2, R8|0805|2
+24|5.6K||R3|0805|1
+25|0||R5, R6|0805|2
+26|124||R7|0805|1
+27|200||R9|0805|1
+28|4.7K||R11|0805|1
+29|47k||R12|0805|1
+30|20K||R13|0805|1
+31|FSMSMTR|SWITCH TACTILE SPST-NO 0.05A 24V|S1|TE FSMSMTR|1
+32|ATmega328P-AU|8-bit AVR Microcontroller, 32KB Flash, 1KB EEPROM, 2KB SRAM, 32-pin TQFP, Industrial Grade (-40°C to 85°C)|U1|32A_N|1
+33|NCP1117||U2|SOT223|1
+34|16MHz|CRYSTAL 16.0000MHZ 8PF SMD|Y1, Y2|NDK NX3225SA|2

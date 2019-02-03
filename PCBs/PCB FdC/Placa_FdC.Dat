@@ -1,0 +1,24 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Placa_FdC.PrjPCB|ReportField=ProjectFullPath~X:\Dropbox\Universidad\Máster\TFM\1. PCBs\PCB FdC\Placa_FdC.PrjPCB|ReportField=Title~Bill of Materials For PCB Document [Placa_FdC.PcbDoc]|ReportField=TotalQuantity~72|ReportField=ReportTime~1:47:13|ReportField=ReportDate~13/06/2018|ReportField=ReportDateTime~13/06/2018 1:47:13|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~Placa_FdC.PcbDoc|ReportField=DataSourceFullPath~X:\Dropbox\Universidad\Máster\TFM\1. PCBs\PCB FdC\Placa_FdC.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|1206 LED||5V, L1|LED-1206|2
+2|100n||C1, C4, C5, C6, C7, C12, C13|0805|7
+3|47u||C2, C17|PANASONIC_D|2
+4|22p||C3, C8, C9, C10, C11|0805|5
+5|SOD123-1A||D5|SOD-123|1
+6|Header 2|Header, 2-Pin|E_C|HDR1X2|1
+7|Header 3X2|Header, 3-Pin, Dual row|ISCP|HDR2X3|1
+8|282834-3|TERM BLOCK 3POS SIDE ENT 2.54MM|J_C1, J_C2, J_C3, J_C4, J_C5, J_C6, J_C7, J_C8, J_C9, J_C10, J_C11, J_C12, J_C13, J_C14, J_C15, J_C16, J_C17, J_C18, J_C19, J_C20, J_C21, J_C22, J_C23, J_C24, J_C25, J_C26, J_C27, J_C28, J_C29, J_C30|TE 282834-3|30
+9|MCP2551T-I/SN|High-Speed CAN Transceiver, 8-Pin SOIC, Industrial Temperature, Tape and Reel|MCP1|SOIC-SN8_N|1
+10|MCP2515T-E/SO|Stand-Alone CAN Controller With SPI Interface, 18-Pin SOIC, Extended Temperature, Tape and Reel|MCP2|SOIC-SO18_N|1
+11|IDC2X4|Header, 4-Pin, Dual row|P1, P2|IDC2X4|2
+12|Header 8X2A|Header, 8-Pin, Dual row|P3, P4|HDR2X8_CEN|2
+13|Header 6|Header, 6-Pin|Prog|HDR1X6|1
+14|10K||R1, R4, R10|0805|3
+15|560||R2, R8|0805|2
+16|0||R5, R6|0805|2
+17|124||R7|0805|1
+18|4.7K||R11|0805|1
+19|FSMSMTR|SWITCH TACTILE SPST-NO 0.05A 24V|S1|TE FSMSMTR|1
+20|ATmega328P-AU|8-bit AVR Microcontroller, 32KB Flash, 1KB EEPROM, 2KB SRAM, 32-pin TQFP, Industrial Grade (-40°C to 85°C)|U1|32A_N|1
+21|NCP1117||U2|SOT223|1
+22|4067|MUX-74HC4067|U3, U4|SSOP-24|2
+23|16MHz|CRYSTAL 16.0000MHZ 8PF SMD|Y1, Y2|NDK NX3225SA|2

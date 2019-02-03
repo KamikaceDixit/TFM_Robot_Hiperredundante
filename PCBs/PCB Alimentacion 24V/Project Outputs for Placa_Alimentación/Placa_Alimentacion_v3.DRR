@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Placa_Alimentacion_v3.PcbDoc   05/07/2018  16:00:25
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Placa_Alimentacion_v3.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             135       PTH        26.80inch (680.62mm)
+T2      35mil (0.9mm)                                             Round             30        PTH        7.28inch (185.00mm)
+T3      55mil (1.4mm)                                             Round             28        PTH        8.93inch (226.82mm)
+T4      59mil (1.5mm)                                             Round             2         PTH        0.26inch (6.62mm)
+T5      79mil (2mm)                                               Round             19        PTH        10.44inch (265.30mm)
+T6      130mil (3.3mm)                                            Round             4         PTH        8.86inch (225.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              218
+
+Total Processing Time (hh:mm:ss) : 00:00:01

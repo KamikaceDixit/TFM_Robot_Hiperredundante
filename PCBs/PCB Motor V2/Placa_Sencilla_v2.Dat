@@ -1,0 +1,35 @@
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~100|Field=Comment~String~Comment~100|Field=Footprint~String~Footprint~65|Field=Quantity~Integer~Quantity~63|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Placa_Motores_v2.PrjPCB|ReportField=ProjectFullPath~X:\Dropbox\Universidad\Máster\TFM\1. PCBs\PCB Motor V2\Placa_Motores_v2.PrjPCB|ReportField=Title~Bill of Materials For PCB Document [Placa_Sencilla_v2.PcbDoc]|ReportField=TotalQuantity~56|ReportField=ReportTime~20:55:41|ReportField=ReportDate~06/01/2019|ReportField=ReportDateTime~06/01/2019 20:55:41|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~Placa_Sencilla_v2.PcbDoc|ReportField=DataSourceFullPath~X:\Dropbox\Universidad\Máster\TFM\1. PCBs\PCB Motor V2\Placa_Sencilla_v2.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|5V, 24V, L1|1206 LED|LED-1206|3
+2|C1, C4, C5, C6, C7, C12, C13|100n|0805|7
+3|C2, C17|47u|PANASONIC_D|2
+4|C3, C8, C9, C10, C11|22p|0805|5
+5|C14|100u|PANASONIC_D|1
+6|C15|33n|0805|1
+7|C16|1u|0805|1
+8|D1, D2, D3, D4|SBR3U40P1-7|POWERDI-123|4
+9|D5|SOD123-1A|SOD-123|1
+10|D6|13V Zener MM1Z13|SOD-123|1
+11|E_C|Header 2|HDR1X2|1
+12|I/O|282834-8|TE 282834-8|1
+13|ISCP|Header 3X2|HDR2X3|1
+14|JP?|JUMPER-PAD-2-NC_BY_PASTE|PAD-JUMPER-2-NC_BY_PASTE_YES_SILK|1
+15|MC1|MC33887|SOIC127P1420X340-21N|1
+16|MCP1|MCP2551T-I/SN|SOIC-SN8_N|1
+17|MCP2|MCP2515T-E/SO|SOIC-SO18_N|1
+18|P1, P2|IDC2X4|IDC2X4|2
+19|POWER|20020110-D021A01LF|FCI 06-381-2PIN|1
+20|Prog|Header 6|HDR1X6|1
+21|Q1|IRF7832TRPBF|SO-08|1
+22|R1, R4, R10|10K|0805|3
+23|R2, R8|560|0805|2
+24|R3|5.6K|0805|1
+25|R5, R6|0|0805|2
+26|R7|124|0805|1
+27|R9|200|0805|1
+28|R11|4.7K|0805|1
+29|R12|47k|0805|1
+30|R13|20K|0805|1
+31|S1|FSMSMTR|TE FSMSMTR|1
+32|U1|ATmega328P-AU|32A_N|1
+33|U2|NCP1117|SOT223|1
+34|Y1, Y2|16MHz|NDK NX3225SA|2

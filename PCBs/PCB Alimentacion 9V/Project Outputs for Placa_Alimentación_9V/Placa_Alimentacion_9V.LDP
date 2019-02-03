@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Dropbox\Universidad\Máster\TFM\1. PCBs\PCB Alimentacion 9V\Placa_Alimentacion_9V.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=placa_alimentacion_9v-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=placa_alimentacion_9v-slotholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Placa_Alimentacion_9V.PcbDoc   05/07/2018  16:02:15
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Placa_Alimentacion_9V-RoundHoles.TXT
+ASCII SlotHoles File : Placa_Alimentacion_9V-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      35mil (0.9mm)                                             Round             32        PTH        4.90inch (124.46mm)
+T2      39mil (1mm)                                               Slot              6         PTH        5.22inch (132.58mm)
+T3      79mil (2mm)                                               Round             2         PTH        0.37inch (9.50mm)
+T4      130mil (3.3mm)                                            Round             4         PTH        6.10inch (155.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              44
+
+Total Processing Time (hh:mm:ss) : 00:00:00
