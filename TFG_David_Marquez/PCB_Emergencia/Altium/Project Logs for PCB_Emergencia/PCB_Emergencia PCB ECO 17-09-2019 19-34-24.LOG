@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=GND Pin=1-2
+Removed Pin From Net: NetName=GND Pin=C23-1
+Removed Pin From Net: NetName=BAT Pin=C23-2
+Change Component Designator: OldDesignator=D5 NewDesignator=D6
+Change Component Designator: OldDesignator=D6 NewDesignator=D7
+Change Component Designator: OldDesignator=D7 NewDesignator=D8
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=R18 NewDesignator=R19
+Added Component: Designator=D5(SOD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PROD_ID"; Value = "DIO-12440"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SO-08)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R12(0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=BAT Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=GND Pin=D5-A
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=24V Pin=R12-2
+Change Net Name : Old Net Name=NetD5_C New Net Name=NetD6_C
+Change Net Name : Old Net Name=NetD6_C New Net Name=NetD7_C
+Change Net Name : Old Net Name=NetD7_C New Net Name=NetD8_C
+Change Net Name : Old Net Name=NetR12_2 New Net Name=NetR13_2
+Added Pin To Net: NetName=GNDC Pin=1-2
+Added Pin To Net: NetName=GNDC Pin=Q1-5
+Added Pin To Net: NetName=GNDC Pin=Q1-6
+Added Pin To Net: NetName=GNDC Pin=Q1-7
+Added Pin To Net: NetName=GNDC Pin=Q1-8
+Added Net: Name=GNDC
+Added Pin To Net: NetName=NetD5_C Pin=D5-C
+Added Pin To Net: NetName=NetD5_C Pin=Q1-4
+Added Pin To Net: NetName=NetD5_C Pin=R12-1
+Added Net: Name=NetD5_C
+Added Member To Class: ClassName=PCB_Emergencia Member=Component D1 SS26FL
+Added Member To Class: ClassName=PCB_Emergencia Member=Component D8 LED Carga
+Added Member To Class: ClassName=PCB_Emergencia Member=Component Q1 IRF7832TRPBF
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R12 20K
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R17 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R18 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R19 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Room: Name=PCB_Emergencia

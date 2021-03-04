@@ -1,0 +1,105 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=C5
+Change Component Designator: OldDesignator=C2 NewDesignator=C6
+Change Component Designator: OldDesignator=C3 NewDesignator=C13
+Change Component Designator: OldDesignator=C4 NewDesignator=C8
+Change Component Designator: OldDesignator=C5 NewDesignator=C9
+Change Component Designator: OldDesignator=C6 NewDesignator=C10
+Change Component Designator: OldDesignator=C7 NewDesignator=C11
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D3
+Change Component Designator: OldDesignator=D3 NewDesignator=D4
+Change Component Designator: OldDesignator=E_C NewDesignator=E_C1
+Change Component Designator: OldDesignator=MCP1 NewDesignator=MCP2
+Change Component Designator: OldDesignator=MCP2 NewDesignator=MCP1
+Change Component Designator: OldDesignator=Prog NewDesignator=Prog1
+Change Component Designator: OldDesignator=R4 NewDesignator=R7
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Added Component: Designator=C1(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C2(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C3(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C4(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C7(PANASONIC_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PROD_ID"; Value = "CAP-10547"; VariantName = "[No Variations]"
+Added Component: Designator=C12(PANASONIC_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PROD_ID"; Value = "CAP-10547"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SOD-123)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(IDC2X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P2(IDC2X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOT223)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PROD_ID"; Value = "VREG-08170"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=5V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=5V Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=5V Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=AREF Pin=C4-2
+Added Pin To Net: NetName=5V Pin=C7-+
+Added Pin To Net: NetName=GND Pin=C7--
+Added Pin To Net: NetName=GND Pin=C12--
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=SCL Pin=P1-3
+Added Pin To Net: NetName=SDA Pin=P1-4
+Added Pin To Net: NetName=CANH Pin=P1-5
+Added Pin To Net: NetName=CANL Pin=P1-6
+Added Pin To Net: NetName=SOS Pin=P1-8
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=SCL Pin=P2-3
+Added Pin To Net: NetName=SDA Pin=P2-4
+Added Pin To Net: NetName=CANH Pin=P2-5
+Added Pin To Net: NetName=CANL Pin=P2-6
+Added Pin To Net: NetName=SOS Pin=P2-8
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=5V Pin=U2-2
+Added Pin To Net: NetName=5V Pin=U2-4
+Change Net Name : Old Net Name=NetD1_A New Net Name=NetD2_A
+Change Net Name : Old Net Name=NetD2_A New Net Name=NetD3_A
+Change Net Name : Old Net Name=NetD3_A New Net Name=NetD4_A
+Change Net Name : Old Net Name=NetE_C_1 New Net Name=NetE_C1_1
+Change Net Name : Old Net Name=NetMCP1_4 New Net Name=NetMCP1_2
+Change Net Name : Old Net Name=NetMCP1_8 New Net Name=NetMCP2_8
+Change Net Name : Old Net Name=NetMCP2_17 New Net Name=NetMCP1_17
+Added Pin To Net: NetName=NetC12_+ Pin=C12-+
+Added Pin To Net: NetName=NetC12_+ Pin=D1-C
+Added Pin To Net: NetName=NetC12_+ Pin=U2-3
+Added Net: Name=NetC12_+
+Added Pin To Net: NetName=Vin Pin=D1-A
+Added Pin To Net: NetName=Vin Pin=P1-1
+Added Pin To Net: NetName=Vin Pin=P2-1
+Added Net: Name=Vin
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C8 CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C9 CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C10 CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C11 CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C12 47u
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C13 CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component D4 LED Parada
+Added Member To Class: ClassName=PCB_Emergencia Member=Component P1 IDC2X4
+Added Member To Class: ClassName=PCB_Emergencia Member=Component P2 IDC2X4
+Added Member To Class: ClassName=PCB_Emergencia Member=Component U2 NCP1117
+Added Room: Name=PCB_Emergencia

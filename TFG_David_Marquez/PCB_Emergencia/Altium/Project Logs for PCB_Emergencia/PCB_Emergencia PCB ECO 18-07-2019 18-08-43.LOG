@@ -1,0 +1,109 @@
+Added Component: Designator=C1(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C2(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C3(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C4(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C5(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C6(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C8(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "22p"; VariantName = "[No Variations]"
+Added Component: Designator=C9(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "22p"; VariantName = "[No Variations]"
+Added Component: Designator=C10(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "22p"; VariantName = "[No Variations]"
+Added Component: Designator=C11(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "22p"; VariantName = "[No Variations]"
+Added Component: Designator=C13(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Res"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Res"; Value = "124"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Res"; Value = "4.7K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Res"; Value = "560"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Res"; Value = "560"; VariantName = "[No Variations]"
+Added Component: Designator=R6(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Res"; Value = "560"; VariantName = "[No Variations]"
+Added Component: Designator=R7(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Res"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=5V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=5V Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=5V Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=AREF Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=5V Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=5V Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=XTAL1 Pin=C8-2
+Added Pin To Net: NetName=XTAL2 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=CTAL1 Pin=C10-2
+Added Pin To Net: NetName=CTAL2 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=RESET Pin=C13-2
+Added Pin To Net: NetName=5V Pin=R1-1
+Added Pin To Net: NetName=NetMCP1_17 Pin=R1-2
+Added Pin To Net: NetName=CANH Pin=R2-1
+Added Pin To Net: NetName=NetE_C1_1 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetMCP2_8 Pin=R3-2
+Added Pin To Net: NetName=NetD2_A Pin=R4-1
+Added Pin To Net: NetName=5V Pin=R4-2
+Added Pin To Net: NetName=NetD3_A Pin=R5-1
+Added Pin To Net: NetName=LED1 Pin=R5-2
+Added Pin To Net: NetName=NetD4_A Pin=R6-1
+Added Pin To Net: NetName=LED2 Pin=R6-2
+Added Pin To Net: NetName=5V Pin=R7-1
+Added Pin To Net: NetName=RESET Pin=R7-2
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C1 CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C2 CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C3 CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C4 CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C5 CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C6 CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C8 CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C9 CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C10 CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C11 CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C13 CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R1 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R2 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R3 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R4 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R5 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R6 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R7 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Room: Name=PCB_Emergencia

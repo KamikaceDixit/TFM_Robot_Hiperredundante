@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=D?-A
+Removed Pin From Net: NetName=NetD?_C Pin=D?-C
+Added Component: Designator=D?(SS26FL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PROD_ID"; Value = "SS26FL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D?-A
+Added Pin To Net: NetName=NetD?_C Pin=D?-C
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C? CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C? CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C? CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C? CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.

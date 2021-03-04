@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND Pin=IC1-1
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=R18 NewDesignator=R19
+Change Component Designator: OldDesignator=R19 NewDesignator=R20
+Added Component: Designator=E_C2(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=JP1(PAD-JUMPER-2-NC_BY_PASTE_YES_SILK)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP2(PAD-JUMPER-2-NC_BY_PASTE_YES_SILK)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R17(3296W)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "20k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=E_C2-2
+Added Pin To Net: NetName=GND Pin=JP2-1
+Added Pin To Net: NetName=NetC22_1 Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R17-3
+Added Pin To Net: NetName=NetE_C2_1 Pin=E_C2-1
+Added Pin To Net: NetName=NetE_C2_1 Pin=JP1-2
+Added Pin To Net: NetName=NetE_C2_1 Pin=R17-2
+Added Net: Name=NetE_C2_1
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_1 Pin=JP1-1
+Added Pin To Net: NetName=NetIC1_1 Pin=JP2-2
+Added Net: Name=NetIC1_1
+Added Member To Class: ClassName=PCB_Emergencia Member=Component D5 13V Zener MM1Z13
+Added Member To Class: ClassName=PCB_Emergencia Member=Component E_C2 Header 2
+Added Member To Class: ClassName=PCB_Emergencia Member=Component JP1 JUMPER-PAD-2-NC_BY_PASTE
+Added Member To Class: ClassName=PCB_Emergencia Member=Component JP2 JUMPER-PAD-2-NC_BY_PASTE
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R12 20K
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R20 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Room: Name=PCB_Emergencia

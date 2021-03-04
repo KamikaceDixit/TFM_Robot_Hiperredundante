@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM4",
+    "sketch": "..\\Prueba_CAN_Write\\Prueba_CAN_Write.ino"
+}

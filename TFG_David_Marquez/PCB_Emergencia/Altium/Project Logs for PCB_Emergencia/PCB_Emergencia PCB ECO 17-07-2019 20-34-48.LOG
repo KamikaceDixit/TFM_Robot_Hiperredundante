@@ -1,0 +1,83 @@
+Added Component: Designator=U1(32A_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-026-ABA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.atmel.com/products/avr/default.asp?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "ATmega48A/48PA/88A/88PA/168A/168PA/328/328P Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/8271.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "ATmega48A/48PA/88A/88PA/168A/168PA/328/328P Summary"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/8271S.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Atmel.com Home"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.atmel.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revA, Jan-2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "32-Lead, 7x7x1.0 mm Body, 0.8mm Lead Pitch, Thin Profile Plastic Quad Flat Package (TQFP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "32A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revB, Oct-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "1-Apr-2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ATMEGA328-AU-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "556-ATMEGA328-AU"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=U1-4
+Added Pin To Net: NetName=5V Pin=U1-6
+Added Pin To Net: NetName=5V Pin=U1-18
+Added Net: Name=5V
+Added Pin To Net: NetName=AREF Pin=U1-20
+Added Net: Name=AREF
+Added Pin To Net: NetName=Aux_Input Pin=U1-25
+Added Net: Name=Aux_Input
+Added Pin To Net: NetName=C_CS Pin=U1-14
+Added Net: Name=C_CS
+Added Pin To Net: NetName=D1 Pin=U1-2
+Added Net: Name=D1
+Added Pin To Net: NetName=D2 Pin=U1-11
+Added Net: Name=D2
+Added Pin To Net: NetName=DRIVER1 Pin=U1-9
+Added Net: Name=DRIVER1
+Added Pin To Net: NetName=DRIVER2 Pin=U1-10
+Added Net: Name=DRIVER2
+Added Pin To Net: NetName=ENABLE Pin=U1-26
+Added Net: Name=ENABLE
+Added Pin To Net: NetName=ENC1 Pin=U1-32
+Added Net: Name=ENC1
+Added Pin To Net: NetName=ENC2 Pin=U1-1
+Added Net: Name=ENC2
+Added Pin To Net: NetName=End_Stop Pin=U1-24
+Added Net: Name=End_Stop
+Added Pin To Net: NetName=FB Pin=U1-22
+Added Net: Name=FB
+Added Pin To Net: NetName=FS Pin=U1-19
+Added Net: Name=FS
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Net: Name=GND
+Added Pin To Net: NetName=INT Pin=U1-13
+Added Net: Name=INT
+Added Pin To Net: NetName=LED1 Pin=U1-12
+Added Net: Name=LED1
+Added Pin To Net: NetName=MISO Pin=U1-16
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=U1-15
+Added Net: Name=MOSI
+Added Pin To Net: NetName=RESET Pin=U1-29
+Added Net: Name=RESET
+Added Pin To Net: NetName=RXP Pin=U1-31
+Added Net: Name=RXP
+Added Pin To Net: NetName=SCK Pin=U1-17
+Added Net: Name=SCK
+Added Pin To Net: NetName=SCL Pin=U1-28
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=U1-27
+Added Net: Name=SDA
+Added Pin To Net: NetName=SOS Pin=U1-23
+Added Net: Name=SOS
+Added Pin To Net: NetName=TXP Pin=U1-30
+Added Net: Name=TXP
+Added Pin To Net: NetName=XTAL1 Pin=U1-7
+Added Net: Name=XTAL1
+Added Pin To Net: NetName=XTAL2 Pin=U1-8
+Added Net: Name=XTAL2
+Added Class: Name=PCB_Emergencia
+Added Room: Name=PCB_Emergencia

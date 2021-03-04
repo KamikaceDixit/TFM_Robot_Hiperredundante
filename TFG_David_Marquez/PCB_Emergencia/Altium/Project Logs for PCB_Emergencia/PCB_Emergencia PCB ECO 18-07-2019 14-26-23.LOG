@@ -1,0 +1,10 @@
+Added Component: Designator=D1(LED-1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3(LED-1206)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=GND Pin=D1-C
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=GND Pin=D3-C
+Added Member To Class: ClassName=PCB_Emergencia Member=Component D1 LED Encendido
+Added Member To Class: ClassName=PCB_Emergencia Member=Component D3 LED Parada

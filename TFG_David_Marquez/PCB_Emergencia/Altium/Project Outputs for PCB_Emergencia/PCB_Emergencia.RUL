@@ -1,0 +1,15 @@
+DRC Rules Export File for PCB: C:\Users\DAVID\OneDrive - Universidad Politécnica de Madrid\Universidad\TFG\PCB_Emergencia\PCB_Emergencia.PcbDoc
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.98
+RuleKind=Clearance|RuleName=Clearance_POWER|Scope=Board|Minimum=15.00
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_2|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_5V|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_9V|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_GND|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_GNDC|Scope=Board|Minimum=23.62
+RuleKind=Width|RuleName=Width_24V|Scope=Board|Minimum=27.56
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width_5VBuck|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_3.7V|Scope=Board|Minimum=10.00

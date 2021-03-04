@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_Emergencia.PcbDoc   12/10/2019  18:32:29
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_Emergencia.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             45        PTH        12.45inch (316.31mm)
+T2      20mil (0.5mm)                                             Round             2         PTH        1.11inch (28.32mm)
+T3      28mil (0.7mm)                                             Round             2         PTH        0.08inch (2.00mm)
+T4      30mil (0.76mm)                                            Round             6         PTH        1.45inch (36.85mm)
+T5      35mil (0.9mm)                                             Round             18        PTH        4.60inch (116.88mm)
+T6      55mil (1.4mm)                                             Round             2         PTH        0.15inch (3.81mm)
+T7      130mil (3.3mm)                                            Round             4         PTH        7.19inch (182.60mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              79
+
+Total Processing Time (hh:mm:ss) : 00:00:00

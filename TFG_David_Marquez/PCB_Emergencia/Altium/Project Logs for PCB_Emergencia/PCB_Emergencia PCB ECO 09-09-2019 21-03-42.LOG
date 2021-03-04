@@ -1,0 +1,62 @@
+Added Component: Designator=C?(PANASONIC_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PROD_ID"; Value = "CAP-10547"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "10u"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "10u"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "10u"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "10u"; VariantName = "[No Variations]"
+Added Component: Designator=D?(SS26FL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PROD_ID"; Value = "SS26FL"; VariantName = "[No Variations]"
+Added Component: Designator=L?(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "82uH"; VariantName = "[No Variations]"
+Added Component: Designator=U?(*TO263-5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM2596S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM2596S/Texas%20Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=24V Pin=C?-2
+Added Pin To Net: NetName=24V Pin=C?-2
+Added Pin To Net: NetName=24V Pin=C?-2
+Added Pin To Net: NetName=24V Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?--
+Added Pin To Net: NetName=GND Pin=D?-A
+Added Pin To Net: NetName=24V Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=5VDown Pin=C?-+
+Added Pin To Net: NetName=5VDown Pin=L?-1
+Added Pin To Net: NetName=5VDown Pin=U?-4
+Added Net: Name=5VDown
+Added Pin To Net: NetName=EN_BUCK Pin=U1-2
+Added Pin To Net: NetName=EN_BUCK Pin=U?-5
+Added Net: Name=EN_BUCK
+Added Pin To Net: NetName=NetD?_C Pin=D?-C
+Added Pin To Net: NetName=NetD?_C Pin=L?-2
+Added Pin To Net: NetName=NetD?_C Pin=U?-2
+Added Net: Name=NetD?_C
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C? 4.7u
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C? CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C? CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C? CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C? CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component D? SS26FL
+Added Member To Class: ClassName=PCB_Emergencia Member=Component L? Inductors   Basic Inductor/Choke - 0603 and 1206. Footprints are not proven and vary greatly between part numbers. INDUCTOR POWER 3.3UH 4.0A SMD 0.197" L x 0.197" W x 0.177" H (5.00mm x 5.00mm x 4.50mm)
+Added Member To Class: ClassName=PCB_Emergencia Member=Component U? LM2596S
+Added Room: Name=PCB_Emergencia

@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=RESET Pin=C13-2
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=Prog1-5
+Added Net: Name=NetC13_1
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C3 CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C4 CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C7 47u
+Added Member To Class: ClassName=PCB_Emergencia Member=Component D1 SOD123-1A
+Added Room: Name=PCB_Emergencia
