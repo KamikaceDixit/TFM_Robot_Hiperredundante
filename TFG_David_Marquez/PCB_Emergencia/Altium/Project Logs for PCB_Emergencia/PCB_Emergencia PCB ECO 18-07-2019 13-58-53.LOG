@@ -1,0 +1,17 @@
+Added Component: Designator=R?(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Res"; Value = "4.7K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=R?-1
+Added Pin To Net: NetName=5V Pin=R?-1
+Added Pin To Net: NetName=CANH Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetE_C_1 Pin=R?-2
+Added Pin To Net: NetName=NetMCP1_8 Pin=R?-2
+Added Pin To Net: NetName=NetMCP2_17 Pin=R?-2
+Added Pin To Net: NetName=RESET Pin=R?-2
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C? CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C? CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R? ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R? ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R? ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R? ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=24V Pin=POWER1-1
+Added Pin To Net: NetName=GND Pin=POWER1-2
+Added Pin To Net: NetName=RESET Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Room: Name=PCB_Emergencia

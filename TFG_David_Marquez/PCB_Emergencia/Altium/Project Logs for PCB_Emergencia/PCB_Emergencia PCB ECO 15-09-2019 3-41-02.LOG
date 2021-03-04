@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=VBAT Pin=U1-26
+Change Net Name : Old Net Name=VBAT New Net Name=BAT
+Added Room: Name=PCB_Emergencia

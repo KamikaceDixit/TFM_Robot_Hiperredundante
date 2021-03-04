@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=RESET Pin=R?-2
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Added Component: Designator=R1(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Res"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Res"; Value = "124"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Res"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Res"; Value = "560"; VariantName = "[No Variations]"
+Added Component: Designator=R6(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Res"; Value = "560"; VariantName = "[No Variations]"
+Added Component: Designator=R7(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Res"; Value = "560"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=R1-1
+Added Pin To Net: NetName=NetMCP2_17 Pin=R1-2
+Added Pin To Net: NetName=CANH Pin=R2-1
+Added Pin To Net: NetName=NetE_C_1 Pin=R2-2
+Added Pin To Net: NetName=NetMCP1_8 Pin=R3-2
+Added Pin To Net: NetName=5V Pin=R4-1
+Added Pin To Net: NetName=RESET Pin=R4-2
+Added Pin To Net: NetName=5V Pin=R5-2
+Added Pin To Net: NetName=LED1 Pin=R6-2
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC3_2
+Added Pin To Net: NetName=LED2 Pin=R7-2
+Added Pin To Net: NetName=LED2 Pin=U1-11
+Added Net: Name=LED2
+Added Pin To Net: NetName=NetD1_A Pin=R5-1
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD2_A Pin=R6-1
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=NetD3_A Pin=R7-1
+Added Net: Name=NetD3_A
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C1 CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C2 CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R1 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R2 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R4 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R5 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R6 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R7 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.

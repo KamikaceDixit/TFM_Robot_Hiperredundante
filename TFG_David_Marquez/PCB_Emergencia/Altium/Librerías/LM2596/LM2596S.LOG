@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : LM2596S.LibPkg
+
+Section : C:\Users\DAVID\Downloads\LM2596S\LM2596S.lia
+    Section : PCB Library - LM2596S.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token LM2596S On Line 241
+            Warning - 1 : Skipping Token attachedSymbol On Line 330
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - LM2596S.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 104
+            Warning - 1 : Skipping Token layerContents On Line 139
+            Warning - 1 : Skipping Token layerContents On Line 189
+            Warning - 1 : Skipping Token isVisible On Line 301
+            Warning - 1 : Skipping Token isVisible On Line 304
+        EndSection
+
+        Section : Generating SCH Library - LM2596S.SchLib
+        EndSection
+    EndSection
+EndSection

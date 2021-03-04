@@ -1,0 +1,41 @@
+Bill of Material for 
+On 12/11/2019 at 18:56:51
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 13V Zener MM1Z13    SOD-123          1    D5                                                
+ 16MHz               NDK NX3225SA     2    Y1, Y2                       CRYSTAL 16.0000MHZ 8PF SMD 
+ 20020110-D021A01LF  FCI 06-381-2PIN    1    1                            TERM BLOCK HDR 2POS R/A 3.81MM 
+ 20K                 0805             1    R12                                               
+ 3296W               3296W            2    R13, R17                                          
+ 4.7u                PANASONIC_D      1    C20                                               
+ 47u                 PANASONIC_D      2    C13, C14                                          
+ ATmega328-AU        32A_N            1    U1                           8-bit AVR Microcontroller, 32KB Flash, 1KB EEPROM, 2KB SRAM, 32-pin TQFP, Industrial Grade (-40°C to 85°C) 
+ CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor. 0805            20    C1, C2, C3, C4, C5, C6, C7                        
+                                           C8, C9, C10, C11, C12, C15
+                                           C16, C17, C18, C19, C21, C22
+                                           C23
+ CDRH74              CDRH74           1    L1                                                
+ Conector JST        *JST_S2B-PH-K-S(LF)(SN)    1    J1                           PH Series 2 Position 2.0 mm Through Hole Side Entry Shrouded Header 
+ FSMSMTR             TE FSMSMTR       1    S1                           SWITCH TACTILE SPST-NO 0.05A 24V 
+ Header 2            HDR1X2           2    E_C1, E_C2                   Header, 2-Pin        
+ Header 6            HDR1X6           1    Prog1                        Header, 6-Pin        
+ IDC2X4              IDC2X4           1    P1                           Header, 4-Pin, Dual row 
+ IRF7832TRPBF        SO-08            1    Q1                                                
+ JUMPER-PAD-2-NC_BY_PASTE PAD-JUMPER-2-NC_BY_PASTE_YES_SILK    2    JP1, JP2                                          
+ LED Carga           LED-1206         1    D8                                                
+ LED Encendido       LED-1206         1    D2                                                
+ LED Parada          LED-1206         1    D3                                                
+ LED Standby         LED-1206         1    D7                                                
+ LM2596S             LM2596S          1    U3                           Semiconductors and Actives 
+ MCP2515T-I/SO       SOIC-SO18_N      1    MCP1                         Stand-Alone CAN Controller With SPI Interface, 18-Pin SOIC, Industrial Temperature, Tape and Reel 
+ MCP2551T-I/SN       SOIC-SN8_N       1    MCP2                         High-Speed CAN Transceiver, 8-Pin SOIC, Industrial Temperature, Tape and Reel 
+ MT3608              *SOT23-6         1    U4                           High Efficiency 1.2MHz
+2A Step Up Converter 
+ NCP1117             SOT223           1    U2                                                
+ ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors. 0805            17    R1, R2, R3, R4, R5, R6, R7                        
+                                           R8, R9, R10, R11, R14, R15
+                                           R16, R18, R19, R20
+ SMMS1360            SMMS1360 - duplicate    1    L2                                                
+ SS26FL              SS26FL           3    D1, D4, D6                                        
+ TP4056              *SOP-8           1    IC1                                               

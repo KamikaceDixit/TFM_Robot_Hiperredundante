@@ -1,0 +1,142 @@
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Change Component Designator: OldDesignator=C13 NewDesignator=C12
+Added Component: Designator=C14(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "1u"; VariantName = "[No Variations]"
+Added Component: Designator=C15(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "1u"; VariantName = "[No Variations]"
+Added Component: Designator=C16(PANASONIC_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PROD_ID"; Value = "CAP-10547"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "6.3mm"; VariantName = "[No Variations]"
+Added Component: Designator=C17(PANASONIC_D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PROD_ID"; Value = "CAP-10547"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "6.3mm"; VariantName = "[No Variations]"
+Added Component: Designator=C18(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=D5(POWERDI-123)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6(LED-1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D7(LED-1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L1(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33uH"; VariantName = "[No Variations]"
+Added Component: Designator=R8(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Res"; Value = "430"; VariantName = "[No Variations]"
+Added Component: Designator=R9(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Res"; Value = "430"; VariantName = "[No Variations]"
+Added Component: Designator=R10(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Res"; Value = "6.2K"; VariantName = "[No Variations]"
+Added Component: Designator=R11(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Res"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R12(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Res"; Value = "500K"; VariantName = "[No Variations]"
+Added Component: Designator=R13(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Res"; Value = "20K"; VariantName = "[No Variations]"
+Added Component: Designator=R14(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Res"; Value = "2.3K"; VariantName = "[No Variations]"
+Added Component: Designator=R15(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Res"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=U3(MP2602)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U4(XL6009)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16--
+Added Pin To Net: NetName=GND Pin=C17--
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U4-1
+Change Net Name : Old Net Name=NetC12_+ New Net Name=NetC13_+
+Change Net Name : Old Net Name=NetC13_1 New Net Name=NetC12_1
+Added Pin To Net: NetName=9V Pin=C16-+
+Added Pin To Net: NetName=9V Pin=D5-C
+Added Pin To Net: NetName=9V Pin=R10-2
+Added Net: Name=9V
+Added Pin To Net: NetName=24V Pin=C14-2
+Added Pin To Net: NetName=24V Pin=U3-1
+Added Net: Name=24V
+Added Pin To Net: NetName=BAT_OUT Pin=C15-2
+Added Pin To Net: NetName=BAT_OUT Pin=C17-+
+Added Pin To Net: NetName=BAT_OUT Pin=L1-1
+Added Pin To Net: NetName=BAT_OUT Pin=R8-2
+Added Pin To Net: NetName=BAT_OUT Pin=R9-2
+Added Pin To Net: NetName=BAT_OUT Pin=U3-10
+Added Pin To Net: NetName=BAT_OUT Pin=U4-4
+Added Net: Name=BAT_OUT
+Added Pin To Net: NetName=E\M\G\ Pin=R12-1
+Added Pin To Net: NetName=E\M\G\ Pin=U3-4
+Added Net: Name=E\M\G\
+Added Pin To Net: NetName=EMG Pin=U4-2
+Added Net: Name=EMG
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=U3-7
+Added Net: Name=NetC18_2
+Added Pin To Net: NetName=NetD5_A Pin=D5-A
+Added Pin To Net: NetName=NetD5_A Pin=L1-2
+Added Pin To Net: NetName=NetD5_A Pin=U4-3
+Added Net: Name=NetD5_A
+Added Pin To Net: NetName=NetD6_A Pin=D6-A
+Added Pin To Net: NetName=NetD6_A Pin=R9-1
+Added Net: Name=NetD6_A
+Added Pin To Net: NetName=NetD6_C Pin=D6-C
+Added Pin To Net: NetName=NetD6_C Pin=U3-2
+Added Net: Name=NetD6_C
+Added Pin To Net: NetName=NetD7_A Pin=D7-A
+Added Pin To Net: NetName=NetD7_A Pin=R8-1
+Added Net: Name=NetD7_A
+Added Pin To Net: NetName=NetD7_C Pin=D7-C
+Added Pin To Net: NetName=NetD7_C Pin=U3-3
+Added Net: Name=NetD7_C
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=R11-2
+Added Pin To Net: NetName=NetR10_1 Pin=U4-5
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=R15-2
+Added Pin To Net: NetName=NetR12_2 Pin=U3-5
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=U3-8
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=U3-9
+Added Net: Name=NetR14_2
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C14 CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C15 CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C16 100u
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C17 220u
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C18 CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component D5 SBR3U40P1-7
+Added Member To Class: ClassName=PCB_Emergencia Member=Component D6 LED Carga
+Added Member To Class: ClassName=PCB_Emergencia Member=Component D7 LED Encendido
+Added Member To Class: ClassName=PCB_Emergencia Member=Component L1 Inductors   Basic Inductor/Choke - 0603 and 1206. Footprints are not proven and vary greatly between part numbers. INDUCTOR POWER 3.3UH 4.0A SMD 0.197" L x 0.197" W x 0.177" H (5.00mm x 5.00mm x 4.50mm)
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R8 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R9 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R10 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R11 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R12 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R13 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R14 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component R15 ResistorBasic schematic elements and footprints for 0603, 1206, and PTH resistors.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component U3 MP2602
+Added Member To Class: ClassName=PCB_Emergencia Member=Component U4 XL6009
+Added Room: Name=PCB_Emergencia

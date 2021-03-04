@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : MT3608.LibPkg
+
+Section : C:\Users\DAVID\Downloads\MT3608\MT3608.lia
+    Section : PCB Library - MT3608.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token MT3608 On Line 190
+            Warning - 1 : Skipping Token attachedSymbol On Line 275
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - MT3608.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 92
+            Warning - 1 : Skipping Token layerContents On Line 134
+            Warning - 1 : Skipping Token layerContents On Line 176
+        EndSection
+
+        Section : Generating SCH Library - MT3608.SchLib
+        EndSection
+    EndSection
+EndSection

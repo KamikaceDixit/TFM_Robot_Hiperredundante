@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : TP4056.LibPkg
+
+Section : C:\Users\DAVID\Downloads\TP4056\TP4056.lia
+    Section : PCB Library - TP4056.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token TP4056 On Line 117
+            Warning - 1 : Skipping Token attachedSymbol On Line 224
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - TP4056.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 94
+            Warning - 1 : Skipping Token layerContents On Line 101
+            Warning - 1 : Skipping Token layerContents On Line 104
+            Warning - 1 : Skipping Token layerContents On Line 107
+        EndSection
+
+        Section : Generating SCH Library - TP4056.SchLib
+        EndSection
+    EndSection
+EndSection

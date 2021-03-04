@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "PCB_Emergencia.ino",
+    "port": "COM4"
+}

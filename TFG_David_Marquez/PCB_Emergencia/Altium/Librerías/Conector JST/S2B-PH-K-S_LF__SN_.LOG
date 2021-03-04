@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : S2B-PH-K-S_LF__SN_.LibPkg
+
+Section : C:\Users\DAVID\Downloads\S2B-PH-K-S_LF__SN_\S2B-PH-K-S_LF__SN_.lia
+    Section : PCB Library - S2B-PH-K-S_LF__SN_.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token S2B-PH-K-S(LF)(SN) On Line 133
+            Warning - 1 : Skipping Token attachedSymbol On Line 180
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - S2B-PH-K-S_LF__SN_.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 100
+            Warning - 1 : Skipping Token layerContents On Line 109
+            Warning - 1 : Skipping Token layerContents On Line 118
+            Warning - 1 : Skipping Token layerContents On Line 125
+        EndSection
+
+        Section : Generating SCH Library - S2B-PH-K-S_LF__SN_.SchLib
+        EndSection
+    EndSection
+EndSection

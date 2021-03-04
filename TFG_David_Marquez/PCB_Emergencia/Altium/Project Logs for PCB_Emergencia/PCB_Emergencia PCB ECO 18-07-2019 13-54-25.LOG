@@ -1,0 +1,108 @@
+Added Component: Designator=C?(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C?(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Cap"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=E_C(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=MCP1(SOIC-SN8_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/21667E.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Packaging Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.microchip.com/stellent/groups/techpub_sg/documents/packagingspec/en012702.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Microchip.com Home"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.microchip.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revE, Jan-2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Lead Plastic Small Outline (SN) - Narrow, 3.90mm Body [SOIC]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOIC-SN8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revBB, Aug-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "29-Jan-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MCP2551T-I/SNTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "1788569"; VariantName = "[No Variations]"
+Added Component: Designator=MCP2(SOIC-SO18_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/21801e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Packaging Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.microchip.com/stellent/groups/techpub_sg/documents/packagingspec/en012702.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Microchip.com Home"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.microchip.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revE, Nov-2007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "18-Lead Plastic Small Outline (SO) - Wide 7.50mm Body [SOIC]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOIC-SO18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revBB, Aug-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "29-Jan-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MCP2515T-I/SO-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "1815922"; VariantName = "[No Variations]"
+Added Component: Designator=Prog(HDR1X6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=RESET Pin=C?-1
+Added Pin To Net: NetName=5V Pin=C?-2
+Added Pin To Net: NetName=5V Pin=C?-2
+Added Pin To Net: NetName=GND Pin=MCP1-2
+Added Pin To Net: NetName=5V Pin=MCP1-3
+Added Pin To Net: NetName=GND Pin=MCP2-9
+Added Pin To Net: NetName=INT Pin=MCP2-12
+Added Pin To Net: NetName=SCK Pin=MCP2-13
+Added Pin To Net: NetName=MOSI Pin=MCP2-14
+Added Pin To Net: NetName=MISO Pin=MCP2-15
+Added Pin To Net: NetName=C_CS Pin=MCP2-16
+Added Pin To Net: NetName=5V Pin=MCP2-18
+Added Pin To Net: NetName=5V Pin=Prog-1
+Added Pin To Net: NetName=GND Pin=Prog-2
+Added Pin To Net: NetName=TXP Pin=Prog-3
+Added Pin To Net: NetName=RXP Pin=Prog-4
+Added Pin To Net: NetName=CANH Pin=MCP1-7
+Added Net: Name=CANH
+Added Pin To Net: NetName=CANL Pin=E_C-2
+Added Pin To Net: NetName=CANL Pin=MCP1-6
+Added Net: Name=CANL
+Added Pin To Net: NetName=CTAL1 Pin=MCP2-8
+Added Net: Name=CTAL1
+Added Pin To Net: NetName=CTAL2 Pin=MCP2-7
+Added Net: Name=CTAL2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=Prog-5
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetE_C_1 Pin=E_C-1
+Added Net: Name=NetE_C_1
+Added Pin To Net: NetName=NetMCP1_1 Pin=MCP1-1
+Added Pin To Net: NetName=NetMCP1_1 Pin=MCP2-1
+Added Net: Name=NetMCP1_1
+Added Pin To Net: NetName=NetMCP1_4 Pin=MCP1-4
+Added Pin To Net: NetName=NetMCP1_4 Pin=MCP2-2
+Added Net: Name=NetMCP1_4
+Added Pin To Net: NetName=NetMCP1_8 Pin=MCP1-8
+Added Net: Name=NetMCP1_8
+Added Pin To Net: NetName=NetMCP2_17 Pin=MCP2-17
+Added Net: Name=NetMCP2_17
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C? CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C? CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component C? CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Added Member To Class: ClassName=PCB_Emergencia Member=Component E_C Header 2
+Added Member To Class: ClassName=PCB_Emergencia Member=Component MCP1 MCP2551T-I/SN
+Added Member To Class: ClassName=PCB_Emergencia Member=Component MCP2 MCP2515T-I/SO
+Added Member To Class: ClassName=PCB_Emergencia Member=Component Prog Header 6
+Added Room: Name=PCB_Emergencia

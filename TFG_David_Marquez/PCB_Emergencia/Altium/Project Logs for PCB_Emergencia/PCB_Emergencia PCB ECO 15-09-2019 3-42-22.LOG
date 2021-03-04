@@ -1,0 +1,12 @@
+Added Component: Designator=D4(SS26FL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PROD_ID"; Value = "SS26FL"; VariantName = "[No Variations]"
+Added Component: Designator=D5(SS26FL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PROD_ID"; Value = "SS26FL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD4_A Pin=D4-A
+Added Pin To Net: NetName=9V Pin=D4-C
+Added Pin To Net: NetName=GND Pin=D5-A
+Added Pin To Net: NetName=NetD5_C Pin=D5-C
+Added Member To Class: ClassName=PCB_Emergencia Member=Component D4 SS26FL
+Added Member To Class: ClassName=PCB_Emergencia Member=Component D5 SS26FL
